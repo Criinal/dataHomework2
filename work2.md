@@ -2,9 +2,7 @@
 
 3220211057 茅晓璐 计算机学院
 
-[Github Repository link](https://github.com/Criinal/Data-Processing-Homework)
-
-[]()
+[Github Repository link](https://github.com/Criinal/dataHomework2)
 
 ## 数据预处理
 
@@ -27,30 +25,16 @@ from pandas import read_csv
 def ReadInputCSV(input_csv):
     f = open(input_csv, encoding="UTF-8")
     names = [
-        "id",
-        "country",
-        "description",
-        "designation",
-        "points",
-        "price",
-        "province",
-        "region_1",
-        "region_2",
-        "variety",
-        "winery",
+        "id", "country", "description", "designation", "points",
+        "price", "province", "region_1", "region_2", "variety", "winery",
     ]
     data = read_csv(f, names=names)
-    print(data)
-    data2 = data.fillna("")
-    return data2
-
+    data = data.fillna("")
+    return data
 ```
-
-输入数据结果展示：
-
 <center>
 <table><tr>
-<td><center><img style="zoom:70%"
+<td><center><img style="zoom:30%"
 src="./pic/1.png" border=0>
 <br>
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -185,7 +169,7 @@ padding: 2px;">关联规则挖掘结果，及置信度/支持度</div>
 
 <center>
 <table><tr>
-<td><center><img style="zoom:50%"
+<td><center><img style="zoom:13%"
 src="./pic/3.png" border=0>
 <br>
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -208,7 +192,7 @@ padding: 2px;">关联规则评价</div>
 - 22. {Washington} -> {LowPrice}: 华盛顿的红酒可能价格低。
 
 当然也会出现一些不合理的关联规则，例如：
-- 4. {LowPoints} -> {HighPrice}: 低分的红酒高价格，这显然是不合理的。出现的原因可能是由于对 __高分数__ 和 __高价格__ 的划分不合理。 
+- 4. {LowPoints} -> {HighPrice}: 低分的红酒高价格，这显然是不合理的。出现的原因可能是由于对 __高分数__ 和 __高价格__ 的划分不合理。
 
 ### 结果展示
 <center>
