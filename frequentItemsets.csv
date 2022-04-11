@@ -1,90 +1,90 @@
 ,support,itemsets
-9,0.848724574,frozenset({'LowPrice'})
-8,0.680580402,frozenset({'LowPoints'})
-43,0.640488968,"frozenset({'LowPrice', 'LowPoints'})"
-5,0.319419598,frozenset({'HighPoints'})
-3,0.294891672,frozenset({'California'})
-33,0.239097595,"frozenset({'LowPrice', 'California'})"
-35,0.208235606,"frozenset({'HighPoints', 'LowPrice'})"
-32,0.197714172,"frozenset({'California', 'LowPoints'})"
-74,0.179778705,"frozenset({'LowPrice', 'California', 'LowPoints'})"
-6,0.151275426,frozenset({'HighPrice'})
-34,0.111183993,"frozenset({'HighPoints', 'HighPrice'})"
-30,0.0971775,"frozenset({'HighPoints', 'California'})"
-22,0.064599483,frozenset({'Washington'})
-72,0.05931889,"frozenset({'HighPoints', 'California', 'LowPrice'})"
-67,0.057788379,"frozenset({'LowPrice', 'Washington'})"
-31,0.055794077,"frozenset({'California', 'HighPrice'})"
-20,0.048240906,frozenset({'Tuscany'})
-1,0.040488968,frozenset({'Bordeaux'})
-40,0.040091433,"frozenset({'HighPrice', 'LowPoints'})"
-71,0.03785861,"frozenset({'HighPoints', 'California', 'HighPrice'})"
-25,0.037341814,"frozenset({'LowPrice', 'Bordeaux'})"
-54,0.037090042,"frozenset({'Washington', 'LowPoints'})"
-88,0.035870934,"frozenset({'LowPrice', 'Washington', 'LowPoints'})"
-65,0.033697741,"frozenset({'LowPrice', 'Tuscany'})"
-14,0.032412377,frozenset({'Northern Spain'})
-11,0.031418538,frozenset({'Mendoza Province'})
-15,0.030404823,frozenset({'Oregon'})
-56,0.029046578,"frozenset({'LowPrice', 'Mendoza Province'})"
-2,0.028543033,frozenset({'Burgundy'})
-59,0.028205128,"frozenset({'LowPrice', 'Northern Spain'})"
-39,0.027509441,"frozenset({'HighPoints', 'Washington'})"
-16,0.027118532,frozenset({'Piedmont'})
-44,0.026634864,"frozenset({'Mendoza Province', 'LowPoints'})"
-21,0.02625058,frozenset({'Veneto'})
-47,0.026038561,"frozenset({'LowPoints', 'Northern Spain'})"
-78,0.02602531,"frozenset({'LowPrice', 'Mendoza Province', 'LowPoints'})"
-52,0.025826542,"frozenset({'Tuscany', 'LowPoints'})"
-81,0.024819453,"frozenset({'LowPrice', 'LowPoints', 'Northern Spain'})"
-60,0.024726694,"frozenset({'LowPrice', 'Oregon'})"
-86,0.02315643,"frozenset({'LowPrice', 'Tuscany', 'LowPoints'})"
-38,0.022414364,"frozenset({'HighPoints', 'Tuscany'})"
-66,0.022387862,"frozenset({'LowPrice', 'Veneto'})"
-77,0.021917445,"frozenset({'HighPoints', 'Washington', 'LowPrice'})"
-23,0.020757967,"frozenset({'HighPoints', 'Bordeaux'})"
-53,0.020565825,"frozenset({'Veneto', 'LowPoints'})"
-61,0.020221295,"frozenset({'LowPrice', 'Piedmont'})"
-18,0.019903266,frozenset({'South Australia'})
-24,0.019731001,"frozenset({'Bordeaux', 'LowPoints'})"
-87,0.019585238,"frozenset({'LowPrice', 'Veneto', 'LowPoints'})"
-69,0.019167826,"frozenset({'LowPrice', 'Bordeaux', 'LowPoints'})"
-48,0.018849798,"frozenset({'Oregon', 'LowPoints'})"
-68,0.018173988,"frozenset({'HighPoints', 'Bordeaux', 'LowPrice'})"
-73,0.017935467,"frozenset({'California', 'HighPrice', 'LowPoints'})"
-29,0.017670443,"frozenset({'LowPrice', 'Burgundy'})"
-82,0.017365666,"frozenset({'LowPrice', 'Oregon', 'LowPoints'})"
-17,0.016862122,frozenset({'Sicily & Sardinia'})
-63,0.016206188,"frozenset({'LowPrice', 'South Australia'})"
-12,0.016086928,frozenset({'New York'})
-57,0.015808653,"frozenset({'LowPrice', 'New York'})"
-62,0.015576757,"frozenset({'LowPrice', 'Sicily & Sardinia'})"
-49,0.015278606,"frozenset({'LowPoints', 'Piedmont'})"
-45,0.014940701,"frozenset({'LowPoints', 'New York'})"
-79,0.014775061,"frozenset({'LowPrice', 'LowPoints', 'New York'})"
-41,0.014543166,"frozenset({'Tuscany', 'HighPrice'})"
-28,0.0143709,"frozenset({'Burgundy', 'LowPoints'})"
-26,0.014172133,"frozenset({'HighPoints', 'Burgundy'})"
-83,0.013615583,"frozenset({'LowPrice', 'LowPoints', 'Piedmont'})"
-13,0.013131915,frozenset({'Northeastern Italy'})
-50,0.012933148,"frozenset({'LowPoints', 'Sicily & Sardinia'})"
-84,0.012608494,"frozenset({'LowPrice', 'LowPoints', 'Sicily & Sardinia'})"
-51,0.012297091,"frozenset({'South Australia', 'LowPoints'})"
-58,0.01228384,"frozenset({'LowPrice', 'Northeastern Italy'})"
-70,0.0121182,"frozenset({'LowPrice', 'Burgundy', 'LowPoints'})"
-75,0.011873054,"frozenset({'HighPoints', 'Tuscany', 'HighPrice'})"
-37,0.011839926,"frozenset({'HighPoints', 'Piedmont'})"
-7,0.0118333,frozenset({'Loire Valley'})
-85,0.011694163,"frozenset({'LowPrice', 'South Australia', 'LowPoints'})"
-36,0.011555026,"frozenset({'HighPoints', 'Oregon'})"
-42,0.011190618,"frozenset({'LowPrice', 'Loire Valley'})"
-0,0.011130988,frozenset({'Alsace'})
-10,0.010965348,frozenset({'Marlborough'})
-27,0.01087259,"frozenset({'Burgundy', 'HighPrice'})"
-55,0.010846088,"frozenset({'LowPrice', 'Marlborough'})"
-19,0.010607566,frozenset({'Southwest France'})
-76,0.010541311,"frozenset({'HighPoints', 'Tuscany', 'LowPrice'})"
-46,0.010322666,"frozenset({'LowPoints', 'Northeastern Italy'})"
-80,0.010163652,"frozenset({'LowPrice', 'LowPoints', 'Northeastern Italy'})"
-4,0.01013715,frozenset({'Central Italy'})
-64,0.010057643,"frozenset({'LowPrice', 'Southwest France'})"
+9,0.8487245743059697,frozenset({'LowPrice'})
+8,0.680580401510634,frozenset({'LowPoints'})
+43,0.6404889683959452,"frozenset({'LowPrice', 'LowPoints'})"
+5,0.3194195984893659,frozenset({'HighPoints'})
+3,0.29489167163585767,frozenset({'California'})
+33,0.2390975949115484,"frozenset({'LowPrice', 'California'})"
+35,0.20823560591002452,"frozenset({'LowPrice', 'HighPoints'})"
+32,0.19771417213277678,"frozenset({'California', 'LowPoints'})"
+74,0.1797787053601007,"frozenset({'LowPrice', 'California', 'LowPoints'})"
+6,0.15127542569403035,frozenset({'HighPrice'})
+34,0.11118399257934142,"frozenset({'HighPoints', 'HighPrice'})"
+30,0.0971774995030809,"frozenset({'HighPoints', 'California'})"
+22,0.06459948320413436,frozenset({'Washington'})
+72,0.05931888955144769,"frozenset({'LowPrice', 'HighPoints', 'California'})"
+67,0.057788378718611276,"frozenset({'LowPrice', 'Washington'})"
+31,0.055794076724309284,"frozenset({'HighPrice', 'California'})"
+20,0.04824090638044126,frozenset({'Tuscany'})
+1,0.04048896839594514,frozenset({'Bordeaux'})
+40,0.04009143311468893,"frozenset({'HighPrice', 'LowPoints'})"
+71,0.037858609951633204,"frozenset({'HighPoints', 'HighPrice', 'California'})"
+25,0.03734181408600013,"frozenset({'LowPrice', 'Bordeaux'})"
+54,0.03709004174120453,"frozenset({'Washington', 'LowPoints'})"
+88,0.03587093354535215,"frozenset({'LowPrice', 'Washington', 'LowPoints'})"
+65,0.03369774067448486,"frozenset({'LowPrice', 'Tuscany'})"
+14,0.03241237659842311,frozenset({'Northern Spain'})
+11,0.03141853839528258,frozenset({'Mendoza Province'})
+15,0.030404823428079243,frozenset({'Oregon'})
+56,0.029046577883787186,"frozenset({'LowPrice', 'Mendoza Province'})"
+2,0.028543033194195985,frozenset({'Burgundy'})
+59,0.028205128205128206,"frozenset({'LowPrice', 'Northern Spain'})"
+39,0.027509441462929836,"frozenset({'HighPoints', 'Washington'})"
+16,0.02711853176969456,frozenset({'Piedmont'})
+44,0.02663486384416617,"frozenset({'Mendoza Province', 'LowPoints'})"
+21,0.026250579738951833,frozenset({'Veneto'})
+47,0.026038560922281854,"frozenset({'LowPoints', 'Northern Spain'})"
+78,0.02602530974623998,"frozenset({'LowPrice', 'Mendoza Province', 'LowPoints'})"
+52,0.025826542105611874,"frozenset({'Tuscany', 'LowPoints'})"
+81,0.02481945272642947,"frozenset({'LowPrice', 'LowPoints', 'Northern Spain'})"
+60,0.024726694494136354,"frozenset({'LowPrice', 'Oregon'})"
+86,0.02315643013317432,"frozenset({'LowPrice', 'Tuscany', 'LowPoints'})"
+38,0.02241436427482939,"frozenset({'HighPoints', 'Tuscany'})"
+66,0.022387861922745642,"frozenset({'LowPrice', 'Veneto'})"
+77,0.021917445173259126,"frozenset({'LowPrice', 'HighPoints', 'Washington'})"
+23,0.020757967269595178,"frozenset({'Bordeaux', 'HighPoints'})"
+53,0.020565825216988007,"frozenset({'LowPoints', 'Veneto'})"
+61,0.02022129463989929,"frozenset({'Piedmont', 'LowPrice'})"
+18,0.019903266414894323,frozenset({'South Australia'})
+24,0.019731001126349963,"frozenset({'Bordeaux', 'LowPoints'})"
+87,0.019585238189889352,"frozenset({'LowPrice', 'LowPoints', 'Veneto'})"
+69,0.01916782614457033,"frozenset({'LowPrice', 'Bordeaux', 'LowPoints'})"
+48,0.018849797919565363,"frozenset({'Oregon', 'LowPoints'})"
+68,0.0181739879414298,"frozenset({'LowPrice', 'HighPoints', 'Bordeaux'})"
+73,0.017935466772676077,"frozenset({'HighPrice', 'California', 'LowPoints'})"
+29,0.0176704432518386,"frozenset({'LowPrice', 'Burgundy'})"
+82,0.017365666202875506,"frozenset({'LowPrice', 'Oregon', 'LowPoints'})"
+17,0.016862121513284305,frozenset({'Sicily & Sardinia'})
+63,0.016206188299211555,"frozenset({'LowPrice', 'South Australia'})"
+12,0.016086927714834692,frozenset({'New York'})
+57,0.015808653017955344,"frozenset({'LowPrice', 'New York'})"
+62,0.015576757437222553,"frozenset({'LowPrice', 'Sicily & Sardinia'})"
+49,0.015278605976280396,"frozenset({'Piedmont', 'LowPoints'})"
+45,0.014940700987212615,"frozenset({'New York', 'LowPoints'})"
+79,0.014775061286689194,"frozenset({'LowPrice', 'LowPoints', 'New York'})"
+41,0.014543165705956403,"frozenset({'HighPrice', 'Tuscany'})"
+28,0.014370900417412045,"frozenset({'Burgundy', 'LowPoints'})"
+26,0.01417213277678394,"frozenset({'HighPoints', 'Burgundy'})"
+83,0.013615583383025244,"frozenset({'Piedmont', 'LowPoints', 'LowPrice'})"
+13,0.013131915457496852,frozenset({'Northeastern Italy'})
+50,0.012933147816868747,"frozenset({'Sicily & Sardinia', 'LowPoints'})"
+84,0.01260849400384284,"frozenset({'LowPrice', 'Sicily & Sardinia', 'LowPoints'})"
+51,0.012297091366858809,"frozenset({'LowPoints', 'South Australia'})"
+58,0.012283840190816934,"frozenset({'LowPrice', 'Northeastern Italy'})"
+70,0.012118200490293513,"frozenset({'LowPrice', 'Burgundy', 'LowPoints'})"
+75,0.01187305373351885,"frozenset({'HighPoints', 'HighPrice', 'Tuscany'})"
+37,0.011839925793414165,"frozenset({'Piedmont', 'HighPoints'})"
+7,0.011833300205393228,frozenset({'Loire Valley'})
+85,0.011694162856953554,"frozenset({'LowPrice', 'LowPoints', 'South Australia'})"
+36,0.01155502550851388,"frozenset({'HighPoints', 'Oregon'})"
+42,0.011190618167362353,"frozenset({'LowPrice', 'Loire Valley'})"
+0,0.011130987875173921,frozenset({'Alsace'})
+10,0.0109653481746505,frozenset({'Marlborough'})
+27,0.010872589942357385,"frozenset({'Burgundy', 'HighPrice'})"
+55,0.010846087590273636,"frozenset({'LowPrice', 'Marlborough'})"
+19,0.01060756642151991,frozenset({'Southwest France'})
+76,0.010541310541310541,"frozenset({'LowPrice', 'HighPoints', 'Tuscany'})"
+46,0.010322666136619625,"frozenset({'Northeastern Italy', 'LowPoints'})"
+80,0.010163652024117141,"frozenset({'LowPrice', 'Northeastern Italy', 'LowPoints'})"
+4,0.010137149672033392,frozenset({'Central Italy'})
+64,0.010057642615782151,"frozenset({'LowPrice', 'Southwest France'})"
