@@ -19,7 +19,7 @@ data["highPrice"] = highPrice
 # 定义 points >= 90 的数据为高分数
 highPoints = []
 for points in data["points"]:
-    if price == "" or points < 90:
+    if points == "" or points < 90:
         highPoints.append("LowPoints")
     else:
         highPoints.append("HighPoints")
